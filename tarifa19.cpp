@@ -18,7 +18,7 @@ int main()
     else if (100 > consumo < 200)
     {
         precio = consumo * 0.25;
-        cout << "Su tarifa es media:aaaaa" << precio << endl;
+        cout << "Su tarifa es media:aaaaaaaa" << precio << endl;
     }
         else if (consumo > 200)
     {
